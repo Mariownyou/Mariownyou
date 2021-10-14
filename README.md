@@ -1,7 +1,7 @@
-👋 Hi, I’m Leva @Mariownyou
-👀 I’m interested in Programming, Presentations, Photography.
-🌱 I’m currently learning Clojure
-📫 How to reach me leva@levakondratev.ru / telegram: mariownyou
+👋 Hi, I’m Leva @Mariownyou  
+👀 I’m interested in Programming, Presentations, Photography.  
+🌱 I’m currently learning Clojure  
+📫 How to reach me leva@levakondratev.ru / telegram: mariownyou  
 
 <!---
 Mariownyou/Mariownyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
