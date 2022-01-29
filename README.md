@@ -1,7 +1,10 @@
-👋 Hi, I’m Leva @Mariownyou  
-👀 I’m interested in Programming, Presentations, Photography.  
-🌱 I’m currently learning Clojure  
-📫 How to reach me leva@levakondratev.ru / telegram: mariownyou  
+👋 Hi, I’m Leva @Mariownyou. Backend developer at [floship](https://www.floship.com)  
+📫 How to reach me leva.kondratev@floship.com / telegram: mariownyou  
+
+### My stack
+* Python
+* Django, DRF, Celery
+* Angular
 
 <!---
 Mariownyou/Mariownyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
