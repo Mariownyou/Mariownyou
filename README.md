@@ -1,4 +1,3 @@
-👋 Hi, I’m Leva @Mariownyou. Backend developer at [floship](https://www.floship.com)  
 📫 How to reach me leva.kondratev@floship.com / telegram: mariownyou  
 
 ### My stack
