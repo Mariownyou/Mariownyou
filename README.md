@@ -4,4 +4,3 @@ Best Work:
 * [Reddit Uploader](https://github.com/Mariownyou/go-reddit-uploader): go package for reddit media uploads usign native platform API
 * [Reddit Bot](https://github.com/Mariownyou/reddit-bot): telegram bot for personal use
 * [downloadPNG](https://github.com/Mariownyou/download-png): figma plugin with 10 000+ users
-* [Coffee Counter](https://coffeecounter.cc): A fun project to calculate annual consuption of coffee
